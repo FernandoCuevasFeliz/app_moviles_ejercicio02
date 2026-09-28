@@ -1,0 +1,2 @@
+Nota: El proyecto fue realizado en react native con expo
+Link de github: https://github.com/FernandoCuevasFeliz/app_moviles_ejercicio02
