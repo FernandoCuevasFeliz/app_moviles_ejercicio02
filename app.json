@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "ejercicio02",
+    "slug": "ejercicio02",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "bundler": "metro"
+    }
+
+  }
+}
